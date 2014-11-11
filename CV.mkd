@@ -1,17 +1,108 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Bioinformática e Tecnologia de Informação‏ 
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+1. DADOS PESSOAIS
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+a) Nome: Daniel Almeida de Paula, 31 anos.
+
+b) Estado Civil: solteiro
+
+c) Endereço: 	SQS 216 – Bloco “D” – Apto 206
+                70295-040 – Brasília-DF
+                Tel: (061) 8222-2701 / 3346-7537
+                E-mail: danielcrvg@hotmail.com
+
+
+
+2. OBJETIVOS PROFISSIONAIS:
+
+Estudante de Segurança da Informação, fluente na língua inglesa, com conhecimentos de TI, busca oportunidade, com vistas ao aprendizado e aprimoramento de conhecimentos oferecendo em contrapartida, esforço, lealdade e dedicação ao trabalho.
+
+
+3. FORMAÇÃO:
+
+a) Superior: Segurança da Informação – 5º Semestre (UniCESP)
+
+b) Outros Cursos:
+
+Inglês:
+Cultura Inglesa – Brasília-DF.
+
+Windows, Word, Excel, Internet :
+Escola de Informática da Universidade de Brasília. 
+
+Linux :
+Novintec Informática.
+
+Montagem, Manutenção e Configuração de Computadores
+SENAC – Brasília.
+
+Administrador de Redes Microsoft – Windows Server 2003
+SENAC – Brasília.
+	
+Curso Java – Orientação a Objetos.
+X25 – Brasilia.
+
+Curso PHP+OO+MYSQL
+Eibinet - Brasília. 
+
+Curso Java – Lógica + Orientação a Objetos + Android.
+Instituto Eldorado – Brasília.
+
+Curso EAD de Pentest em Redes de Computadores
+Professor Daniel Moreno.
+
+Curso EAD Python para Zumbis
+Professor Fernando Masanori
+			 
+c) Certificações:
+
+Microsoft Technet Brasil – Implementando Group Policy;
+Microsoft Technet Brasil – Replicação, FSMOs, Sites e Gcs.
+
+		 
+4. EXPERIÊNCIA:
+
+- SoftSol Linux (25/02/2014 até 25/06/2014)
+Cargo: Tecnico Linux.
+Principais atividades: Instalação e configuração do ambiente do sistema SoftSol Linux, 	suporte remoto e 		presencial, elaboração de scripts. 
+
+- GlobalWeb (01/08/2013 até 20/02/2014)
+Cargo: Operador Tecnico Jr.
+Principais Atividades: Monitorar ambiente de produção, processos, jobs, servidores e 	serviços. 
+	
+- OPEN SRV (01/05/2013 até 30/07/2013)
+Cargo: Tecnico de Suporte
+Principais Atividades: Suporte ao usuario, configuração e instalação de antenas para links via 	radio, 			instalação de roteadores, monitoramento de servidores.
+
+- OMNICOM –  (20/08/2011 até 05/01/2012)
+Cargo: Técnico em Informática
+Principais Atividades: Instalação e configuração dos laboratórios do projeto 	PROINFO (Programa Nacional de 	Tecnologia Educacional), desenvolvido 	pela    SEED(Secretaria de Educação a Distância) do MEC.  	 
+
+- B2BR – Business to Business – Projeto Na Hora (03/08/2009 até a 26/02/2011);
+Cargo: Técnico em Informática
+Principais Atividades: Manutenção de micros, instalar hardware e software, configurar rede local e instalar e 	analisar programas específicos do Governo do Distrito Federal (GDF), suporte ao usuário.
+
+- Escritório Nogueira Ferreira Advogados Associados (08/03/2004 até 05/04/2006);
+Cargo: Estagiário
+Principais Atividades: Elaboração de petições, recursos e demais documentos jurídicos.
+
+-  Defensoria Pública do Distrito Federal (03/06/2003 até 07/12/2003)
+Cargo: Estagiário
+Principais Atividades: Elaboração de petições, recursos e demais documentos jurídicos.
+
+
+- Organizado, responsável, pró-ativo e dedicado ao trabalho.
+
+
+	Brasília, 11 de novembro de 2014.
+
+	Daniel Almeida de Paula
+
+
